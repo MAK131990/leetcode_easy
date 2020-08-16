@@ -1,10 +1,8 @@
 package main
 
-import "fmt"
-
-func main() {
-	fmt.Println(mySqrt(2))
-}
+// func main() {
+// 	fmt.Println(mySqrt(2))
+// }
 
 func mySqrt(x int) int {
 	if x == 0 || x == 1 {
