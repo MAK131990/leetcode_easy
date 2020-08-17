@@ -1,8 +1,8 @@
 package main
 
-func main() {
+// func main() {
 
-}
+// }
 
 //TreeNode2 Tree Node
 type TreeNode2 struct {

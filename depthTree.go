@@ -1,8 +1,8 @@
 package main
 
-func main() {
+// func main() {
 
-}
+// }
 
 func maxDepth(root *TreeNode) int {
 	if root == nil {
