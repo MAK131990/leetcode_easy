@@ -1,10 +1,8 @@
 package main
 
-import "fmt"
-
-func main() {
-	fmt.Println(sortedArrayToBST([]int{-10, -3, 0, 5, 9}))
-}
+// func main() {
+// 	fmt.Println(sortedArrayToBST([]int{-10, -3, 0, 5, 9}))
+// }
 
 func sortedArrayToBST(nums []int) *TreeNode {
 	var res TreeNode
